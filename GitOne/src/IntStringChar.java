@@ -19,8 +19,13 @@ public class IntStringChar {
 		array[0] = 1;
 		array[1] = 2;
 		array[2] = 3;
+		array[3] = 4;
+		array[4] = 5;
+		array[5] = 6;
 		
 		System.out.println(array[1]);
+		System.out.println(array[3]);
+		System.out.println(array[5]);
 		
 		int[] Array = {3,6,9,12,15,18,21,24,27,30};
 		System.out.println(Array[5]);
